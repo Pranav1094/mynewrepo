@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="custom-error"/>
+<aop-project name="SpringMVC1"/>
+<aop-project name="SpringEmail"/>
+<aop-project name="social-manual"/>
+<aop-project name="EProductDetails"/>
+<aop-project name="SpringDemo"/>
+<aop-project name="reading"/>
+<aop-project name="social-click"/>
+<aop-project name="SpringBootJs"/>
+<aop-project name="AngularJS_SpringBoot2"/>
+<aop-project name="MongoTemplate"/>
+<aop-project name="DisneyStudiosApi"/>
+<aop-project name="SpringbootAngular1"/>
+<aop-project name="SpingJMSExample"/>
+<aop-project name="social-github"/>
+<aop-project name="SpringMongoClientApplication"/>
+<aop-project name="social-auth-server"/>
+<aop-project name="Spring4MVCAngularJSNgResourceExample"/>
+<aop-project name="SpringBootBackEnd"/>
+<aop-project name="hystrix-dashboard"/>
+<aop-project name="ExampleBoot"/>
+<aop-project name="WebService"/>
+<aop-project name="config-service"/>
+<aop-project name="SpringMVC"/>
+<aop-project name="config-client"/>
+<aop-project name="MicroservicesBootApplication"/>
+<aop-project name="DiscoveryService"/>
+<aop-project name="SpringBootAngularJS"/>
+<aop-project name="TekGroupProduct"/>
+<aop-project name="DisneyStudios2"/>
+<aop-project name="social-logout"/>
+<aop-project name="social-simple"/>
+<aop-project name="SpringJpaExample"/>
+</aop-reference-model>

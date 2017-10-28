@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Oct 24 02:15:55 EDT 2017
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\prana\\.m2\\repository\\org\\springframework\\spring-web\\3.2.2.RELEASE\\spring-web-3.2.2.RELEASE.jar=WEB-INF/lib/spring-web-3.2.2.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\prana\\.m2\\repository\\org\\springframework\\spring-web\\4.3.1.RELEASE\\spring-web-4.3.1.RELEASE.jar=WEB-INF/lib/spring-web-4.3.1.RELEASE.jar

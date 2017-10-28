@@ -1,0 +1,5 @@
+spring.h2.console.enabled: true
+logging.level.org.hibernate.SQL: debug
+logging.level.com.disney: info
+server.port: 8099
+dog.breedcolor: white, black, brown
